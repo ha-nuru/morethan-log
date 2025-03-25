@@ -12,18 +12,18 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `haneul-log`,
+      name: `gohneul-log`,
       href: "https://github.com/ha-nuru/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "haneul-log",
+    title: "gohneul-log",
     description: "welcome to haneul-log!",
   },
 
   // CONFIG configration (required)
-  link: "https://haneul-log-5v3m.vercel.app",
+  link: "https://gohneul-log.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
